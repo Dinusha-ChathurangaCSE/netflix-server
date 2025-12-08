@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
+  <img src="./public/assets/pipeline.png" alt="Logo" width="100%" height="100%">
 
   <br>
   <a href="http://netflix-clone-with-tmdb-using-react-mui.vercel.app/">
@@ -355,6 +355,11 @@ sudo systemctl restart jenkins
 
 
 ```
+
+![alt text](image.png)
+
+### Sonarqube Dashboard for the project
+![alt text](<Screenshot (19).png>)
 
 **Phase 4: Monitoring**
 
@@ -745,6 +750,8 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 
 4. **Access your Application**
    - To Access the app make sure port 30007 is open in your security group and then open a new tab paste your NodeIP:30007, your app should be running.
+
+![alt text](<Screenshot (18).png>)
 
 **Phase 7: Cleanup**
 
